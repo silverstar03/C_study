@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="진수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="예제 2-4.C">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="대입연산자.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="리터럴.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="오버플로우 언더플로우.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="산술연산자.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="증감연산자.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습05.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습06.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습07.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="조건연산자.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sizeof 연산.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="type casting.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="단순if 문.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="if문 놀이기구.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="if else문.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="if else 어벤져스.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="중첩 if문.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="중첩 if 돈.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="다중if.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="다중if문 ITQ.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="for문.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="while문.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="반복문 while.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="for미림.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="while.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="while미림.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="for문_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="직접해보기1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="직접해보기4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="직접해보기3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="직접해보기2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="switch1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2중 반복문1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="성적처리01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="함수_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="srand.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="srand_test_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="srand_test_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="08 - 6.rand.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="srand_test_3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="재귀함수1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="08 - 5.recursive 함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="재귀함수2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="재귀함수3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="성적처리03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="성적처리02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="07 - 3.dowhile.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="07 - 6.continue.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="06 - 8.sizeof 연산.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="practice fac.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="06 - 6.비트별 연산.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="09 - 디버깅연습.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
